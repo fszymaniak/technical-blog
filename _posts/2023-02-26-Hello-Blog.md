@@ -1,6 +1,6 @@
 ---
 title: "Hello Blog"
-date: 2023-02-19
+date: 2023-02-26
 ---
 
 ![](https://drive.google.com/uc?id=12YzOHhr58FPFJg9hPNXvqAbEbYTxvJM2 "Eat sleep test repeat iamage")
@@ -30,11 +30,9 @@ What this blog will be about?
 Suggestion and constuctive feedback are more then welcome in the comments!
 
 # Conclusion
-...
-> ship daily 
 > done is better then perfect 
 
-are two sentences which I am going to implement in this blog. Maybe daily blogging will be too much but each day I will try to prepare a piece of info for the next post. Quality of content could be different depends on the topic itself but it is a part of the learning path! 
+is a simple sentence which I am going to implement in this blog. Quality of content could be different depends on the topic itself but it is a part of the learning path! 
 
 This is the way! 
 
