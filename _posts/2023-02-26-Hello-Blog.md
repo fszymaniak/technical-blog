@@ -22,20 +22,20 @@ What this blog will be about?
 | Ideas                     | Details                                                                                                                   |
 | :----:                      | :----                                                                                                                  |
 | Testing Overall           | Basic and advance testing topics, I am learning how to blog and what is the best way to share a knowledge with others. Example topic - [Shift left approach](https://www.browserstack.com/guide/what-is-shift-left-testing)      |
-| Testing in .NET           | Tesing examples in C#                                                                                                     |
-| My thoughs about IT       | Some considerations about IT industry                                                                                     |
+| Testing in .NET           | Testing examples in C#                                                                                                    |
+| My thoughts about IT      | Some considerations about IT industry                                                                                     |
 | Unfamiliar testing topics | Like mobile testing in which I am not the expert                                                                          |
 | Travelling                | I love travelling so I would be honored to share with you some experiences from places I am going to visit                |
 
-Suggestion and constuctive feedback are more then welcome in the comments!
+Suggestions and constructive feedback are more than welcome in the comments!
 
 # Conclusion
-> done is better then perfect 
+> done is better than perfect
 
 is a simple sentence which I am going to implement in this blog. Quality of content could be different depends on the topic itself but it is a part of the learning path! 
 
 This is the way! 
 
-Thanks you and see you around.
+Thank you and see you around.
 Happy testing to all of you! 
 
