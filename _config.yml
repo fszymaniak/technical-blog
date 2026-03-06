@@ -1,2 +1,9 @@
 theme: minima
 google_analytics: "G-JXJ4KMS65P"
+
+title: "Softmaniak Blog"
+description: "A technical blog about software testing in .NET, testing strategies, and thoughts on the IT industry."
+author: "Filip Szymaniak"
+url: "https://blog.softmaniak.tech"
+
+permalink: /:year/:month/:day/:title/
